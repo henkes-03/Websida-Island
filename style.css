@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: helvetica;
+}
+
+h1{
+    margin: 10px;
+    padding: 10px;
+}
+
+#rubrik{
+    margin: 20px; 
+    padding-bottom: 7px;
+    height: 35px;
+    width: 70%;
+    float: middle;
+    background-color: white;
+    border-color: red;
+    border-style: solid;
+    border-radius: 20px;
+    
+}
+
+.rubrik{
+    margin:10px;
+    padding: 0px;
+    font-size: 20px;
+    color:red;
+    border-radius: 2px;
+    text-align: center;
+    float: left;
+}
+
+.topplista{
+    float: left;
+}
+
+body{
+    background-image: url(https://assets.stickpng.com/images/580b57fcd9996e24bc43c38c.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+#background{
+    height: 200px;
+    float: left;
+}
+
+table{
+    width: 35%;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.bild{
+    width: 100px;
+    height: 100px;
+}
