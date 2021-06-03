@@ -72,3 +72,8 @@ a{
     color: #B00000;
     text-decoration: none;
 }
+
+pre{
+    color: white;
+    font-size: 20px;
+}
