@@ -7,7 +7,6 @@
 }
 
 
-
 h1{
     margin: 10px;
     padding: 10px;
@@ -38,8 +37,13 @@ h1{
     float: left;
 }
 
-.topplista{
+.textmall{
     float: left;
+    width: 45vw;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: gray 5px solid;
 }
 
 body{
@@ -67,4 +71,9 @@ table{
 a{
     color: #B00000;
     text-decoration: none;
+}
+
+pre{
+    color: white;
+    font-size: 20px;
 }
